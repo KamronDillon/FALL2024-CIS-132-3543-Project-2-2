@@ -95,11 +95,11 @@ header img {
 #nav_menu ul li:hover > ul {
 	display: block;
 }
-/*#nav_menu > ul::after {
+#nav_menu > ul::after {
 	content: "";
 	clear: both;
 	display: block;
-}*/
+}
 /* the styles for the navigation menu - formatting */
 #nav_menu ul {
 	margin: 0;
